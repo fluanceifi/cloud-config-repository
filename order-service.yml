@@ -19,5 +19,5 @@ logging:
 
 # cloud cofig 테스트용 설정 값
 custom:
-  message: "변경된 메시지 - TEST2 환경입니다"
-  version: "2.0.0"
+  message: "변경된 메시지 - TEST3 환경입니다"
+  version: "3.0.0"
